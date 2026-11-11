@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIENTE DE INGENIERIA EN INFORMÁTICA
+🎓 ESTUDIANTE DE INGENIERIA EN INFORMÁTICA
 
 📫 Contacto: **luis.omana.1408@gmail.com**
 <!--Intro end-->
